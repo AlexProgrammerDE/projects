@@ -1,6 +1,6 @@
 ### PistonProjects
 **Hi! I am AlexProgrammerDE aka Pistonmaster!** 👋
-I'm a hobby coder with many minecraft plugins! As i can't keep them all in my head, i will just write them here. :wink:
+I'm a hobby coder with many minecraft plugins! As i can't keep them all in my head, i will just write them here. 
 
 Here are they:
 
