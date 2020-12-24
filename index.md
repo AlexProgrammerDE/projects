@@ -30,6 +30,11 @@ A 2b2t like server restarting plugin.
 
 * [Github](https://github.com/AlexProgrammerDE/PistonRestart)
 
+#### PistonChatBridge
+A plugin for syncing the chat with discord. 
+
+* [Github](https://github.com/AlexProgrammerDE/PistonChatBridge)
+
 #### Support discord
 For personal plugins i provide support in my [discord server](https://discord.gg/CDrcxzH).
 
