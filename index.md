@@ -35,6 +35,11 @@ A plugin for syncing the chat with discord.
 
 * [Github](https://github.com/AlexProgrammerDE/PistonChatBridge)
 
+#### ShadowOffline
+Makes the proxy being showed as offline if the main is offline. 
+
+* [Github](https://github.com/AlexProgrammerDE/ShadowOffline)
+
 #### Support discord
 For personal plugins i provide support in my [discord server](https://discord.gg/CDrcxzH).
 
