@@ -34,7 +34,7 @@ A 2b2t like server restarting plugin.
 For personal plugins i provide support in my [discord server](https://discord.gg/CDrcxzH).
 
 ### Xera Projects
-Xera is a small github team where i develop some plugins too.
+Xera is a small [github team](https://github.com/XeraPlugins) where i develop some plugins too.
 
 #### XeraBungeeQueue
 Best queue plugin out there! 
