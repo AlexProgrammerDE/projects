@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Hi i'm AlexProgrammerDE aka Pistonmaster :wave:
+I'm a hobby coder with many minecraft plugins!As i don't want to keep them in my head, i will just write them here. :wink:
 
-You can use the [editor on GitHub](https://github.com/AlexProgrammerDE/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are they:
 
 ### Personal projects
 All the stuff i have and do on my personal account: https://github.com/AlexProgrammerDE
