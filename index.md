@@ -4,34 +4,43 @@ You can use the [editor on GitHub](https://github.com/AlexProgrammerDE/projects/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal projects
+All the stuff i have and do on my personal account: https://github.com/AlexProgrammerDE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### PistonMOTD
+Best MOTD plugin multi platform support! 
 
-```markdown
-Syntax highlighted code block
+* Github: https://github.com/AlexProgrammerDE/PistonMOTD
+* Website: https://www.pistonmaster.net/PistonMOTD
+* SpigotMC: https://www.spigotmc.org/resources/80567
 
-# Header 1
-## Header 2
-### Header 3
+#### PistonChat
+An advanced chat plugin for survival/anarchy servers. 
 
-- Bulleted
-- List
+* Github: https://github.com/AlexProgrammerDE/PistonChat
+* SpigotMC: https://www.spigotmc.org/resources/86719
 
-1. Numbered
-2. List
+#### PistonMute
+Mute addon for PistonChat. 
 
-**Bold** and _Italic_ and `Code` text
+* Github: https://github.com/AlexProgrammerDE/PistonMute
 
-[Link](url) and ![Image](src)
-```
+#### PistonRestart
+A 2b2t like server restarting plugin. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Github: https://github.com/AlexProgrammerDE/PistonRestart
 
-### Jekyll Themes
+#### Support discord
+For personal plugins i provide support in my [discord server](https://discord.gg/CDrcxzH).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexProgrammerDE/projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Xera Projects
+Xera is a small github team where i develop some plugins too.
 
-### Support or Contact
+#### XeraBungeeQueue
+Best queue plugin out there! 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Github: https://github.com/XeraPlugins/XeraBungeeQueue
+* SpigotMC: https://www.spigotmc.org/resources/83541
+
+#### Support discord
+For xera plugins i provide support in the xera [discord server](https://discord.gg/WWm35Tc).
