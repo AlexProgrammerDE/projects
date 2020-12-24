@@ -5,7 +5,7 @@ I'm a hobby coder with many minecraft plugins! As i can't keep them all in my he
 Here are they:
 
 ### Personal projects
-All the stuff i have and do on my personal account: https://github.com/AlexProgrammerDE)
+All the stuff i have and do on my [personal account](https://github.com/AlexProgrammerDE)
 
 #### PistonMOTD
 Best MOTD plugin multi platform support! 
@@ -43,4 +43,4 @@ Best queue plugin out there!
 * [SpigotMC](https://www.spigotmc.org/resources/83541)
 
 #### Support discord
-For xera plugins i provide support in the xera [discord server](https://discord.gg/WWm35Tc).
+For Xera plugins i provide support in the xera [discord server](https://discord.gg/WWm35Tc).
