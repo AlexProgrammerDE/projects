@@ -1,5 +1,5 @@
-## Hi i'm AlexProgrammerDE aka Pistonmaster :wave:
-I'm a hobby coder with many minecraft plugins!As i don't want to keep them in my head, i will just write them here. :wink:
+## Hi! I am AlexProgrammerDE aka Pistonmaster 👋
+I'm a hobby coder with many minecraft plugins! As i can't keep them all in my head, i will just write them here. :wink:
 
 Here are they:
 
