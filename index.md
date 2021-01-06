@@ -54,3 +54,9 @@ Best queue plugin out there!
 
 #### Support discord
 For Xera plugins i provide support in the xera [discord server](https://discord.gg/WWm35Tc).
+
+### Anti DDOS Reloaded
+Anti DDOS Reloaded is building the next big anti ddos for minecraft servers [github team](https://github.com/XeraPlugins) where i am the project managar.
+
+* [Github](https://github.com/AntiDDOSReloaded)
+* [Website](https://antiddos.pistonmaster.net/)
